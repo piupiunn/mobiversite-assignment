@@ -1,0 +1,82 @@
+.feed {
+  margin-top: -400px;
+  margin-left: 70px;
+}
+.card {
+  width: 363px;
+  height: 100px;
+  border: 1px solid #ffffff;
+  margin-bottom: 5px;
+  position: relative;
+  background-color: #ffffff;
+}
+.feed-title {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 14px;
+  width: 316px;
+  height: 40px;
+}
+.popular {
+  border-bottom: 4px solid #f5f5f5;
+  width: 200px;
+  margin-left: -34px;
+  margin-left: 1px;
+  margin-bottom: -10px;
+}
+.not-green {
+  border-color: #03b425;
+  width: 200px;
+  margin-left: -34px;
+
+  margin-bottom: -10px;
+}
+.not-green h3 {
+}
+.sorted-green {
+  border-bottom: 4px solid #03b425;
+  width: 200px;
+
+  margin-bottom: -10px;
+}
+.sorted-green h3 {
+  margin-left: 70px;
+}
+.popular h3 {
+  margin-left: 30px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.card-element {
+  display: inline-flex;
+  justify-content: center;
+}
+
+.up-left {
+  width: 363px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.date {
+  position: absolute;
+  right: 5px;
+  color: #aaaaaa;
+  font-size: 12px;
+}
+.three-dot {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.votes {
+  margin-left: 20px;
+  color: #aaaaaa;
+  font-size: 12px;
+}
+.votes img {
+  margin-left: 10px;
+}
